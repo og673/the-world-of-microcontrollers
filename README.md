@@ -154,6 +154,7 @@ Contributions are welcome. You can add:
 - project examples
 - comparisons across MCU families
 - troubleshooting tips
+- to the doc. Link shared above
 
 ## License
 
