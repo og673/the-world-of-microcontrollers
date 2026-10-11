@@ -138,7 +138,7 @@ The ESP32 is one of the most popular microcontrollers for modern connected devic
 
 This repo will eventually include:
 
-- docs/
+- docs/ docs link- https://docs.google.com/document/d/1a87bcxojR2WC-wbY3NXrdB_KdamUMaZKN7GxmuoTc_A/edit?usp=sharing
 - tutorials/
 - projects/
 - notes/
